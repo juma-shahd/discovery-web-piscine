@@ -1,0 +1,4 @@
+edit:we use it to make changes 
+add: to add 
+commit: it saves info
+push: its the last stp which upload commits on github
