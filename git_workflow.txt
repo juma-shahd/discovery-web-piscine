@@ -1,5 +1,0 @@
-Edit: to modify 
- git add:to stage the files to get them ready for saving 
-git commit: savepoint 
-git push: upload the saved commits to github
-
