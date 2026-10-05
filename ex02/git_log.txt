@@ -1,0 +1,5 @@
+commit 0f65228089f50b1546877c896d277aaf1195c1fa
+Author: shahd jum'ah <juma.shahed@gmail.com>
+Date:   Sun Oct 4 13:56:08 2026 +0300
+
+    Initial commit for exercise 02

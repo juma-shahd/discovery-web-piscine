@@ -1,0 +1,467 @@
+.:
+total 4
+drwxr-xr-x  9 sjum-ah _amman   99 Oct  4 10:55 .
+drwx------ 17 sjum-ah _amman 4096 Oct  4 09:49 ..
+drwxr-xr-x  2 sjum-ah _amman    6 Oct  4 10:33 archives
+drwxr-xr-x  2 sjum-ah _amman   32 Oct  4 10:55 ex00
+drwxr-xr-x  2 sjum-ah _amman   88 Oct  1 10:45 ex01
+drwxr-xr-x  3 sjum-ah _amman   74 Oct  1 11:29 ex02
+drwxr-xr-x  3 sjum-ah _amman  141 Oct  1 15:40 ex03
+drwxr-xr-x  3 sjum-ah _amman   17 Oct  4 10:34 projects
+drwxr-xr-x  2 sjum-ah _amman    6 Oct  4 10:33 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  4 10:33 .
+drwxr-xr-x 9 sjum-ah _amman 99 Oct  4 10:55 ..
+
+./ex00:
+total 0
+drwxr-xr-x 2 sjum-ah _amman 32 Oct  4 10:55 .
+drwxr-xr-x 9 sjum-ah _amman 99 Oct  4 10:55 ..
+-rw-r--r-- 1 sjum-ah _amman  0 Oct  4 10:55 tree_structure.txt
+
+./ex01:
+total 16
+drwxr-xr-x 2 sjum-ah _amman  88 Oct  1 10:45 .
+drwxr-xr-x 9 sjum-ah _amman  99 Oct  4 10:55 ..
+-rw-r--r-- 1 sjum-ah _amman  33 Oct  1 10:45 draft.txt
+-rw-r--r-- 1 sjum-ah _amman  33 Oct  1 10:45 final_report.txt
+-rwxr-xr-x 1 sjum-ah _amman 195 Oct  1 10:31 mange_files.sh
+-rw-r--r-- 1 sjum-ah _amman  33 Oct  1 10:45 run_log.txt
+
+./ex02:
+total 12
+drwxr-xr-x 3 sjum-ah _amman  74 Oct  1 11:29 .
+drwxr-xr-x 9 sjum-ah _amman  99 Oct  4 10:55 ..
+drwxr-xr-x 8 sjum-ah _amman 166 Oct  1 12:02 .git
+-rw-r--r-- 1 sjum-ah _amman 172 Oct  1 11:31 git_log.txt
+-rw-r--r-- 1 sjum-ah _amman  10 Oct  1 11:10 hello.txt
+-rw-r--r-- 1 sjum-ah _amman  56 Oct  1 11:28 repo_url.txt
+
+./ex02/.git:
+total 24
+drwxr-xr-x  8 sjum-ah _amman  166 Oct  1 12:02 .
+drwxr-xr-x  3 sjum-ah _amman   74 Oct  1 11:29 ..
+drwxr-xr-x  2 sjum-ah _amman    6 Oct  1 11:04 branches
+-rw-r--r--  1 sjum-ah _amman   16 Oct  1 11:49 COMMIT_EDITMSG
+-rw-r--r--  1 sjum-ah _amman  276 Oct  1 12:02 config
+-rw-r--r--  1 sjum-ah _amman   73 Oct  1 11:04 description
+-rw-r--r--  1 sjum-ah _amman   21 Oct  1 11:07 HEAD
+drwxr-xr-x  2 sjum-ah _amman 4096 Oct  1 11:04 hooks
+-rw-r--r--  1 sjum-ah _amman  297 Oct  1 11:49 index
+drwxr-xr-x  2 sjum-ah _amman   21 Oct  1 11:04 info
+drwxr-xr-x  3 sjum-ah _amman   30 Oct  1 11:31 logs
+drwxr-xr-x 10 sjum-ah _amman   90 Oct  1 11:49 objects
+drwxr-xr-x  5 sjum-ah _amman   46 Oct  1 12:02 refs
+
+./ex02/.git/branches:
+total 0
+drwxr-xr-x 2 sjum-ah _amman   6 Oct  1 11:04 .
+drwxr-xr-x 8 sjum-ah _amman 166 Oct  1 12:02 ..
+
+./ex02/.git/hooks:
+total 64
+drwxr-xr-x 2 sjum-ah _amman 4096 Oct  1 11:04 .
+drwxr-xr-x 8 sjum-ah _amman  166 Oct  1 12:02 ..
+-rwxr-xr-x 1 sjum-ah _amman  478 Oct  1 11:04 applypatch-msg.sample
+-rwxr-xr-x 1 sjum-ah _amman  896 Oct  1 11:04 commit-msg.sample
+-rwxr-xr-x 1 sjum-ah _amman 4655 Oct  1 11:04 fsmonitor-watchman.sample
+-rwxr-xr-x 1 sjum-ah _amman  189 Oct  1 11:04 post-update.sample
+-rwxr-xr-x 1 sjum-ah _amman  424 Oct  1 11:04 pre-applypatch.sample
+-rwxr-xr-x 1 sjum-ah _amman 1643 Oct  1 11:04 pre-commit.sample
+-rwxr-xr-x 1 sjum-ah _amman  416 Oct  1 11:04 pre-merge-commit.sample
+-rwxr-xr-x 1 sjum-ah _amman 1492 Oct  1 11:04 prepare-commit-msg.sample
+-rwxr-xr-x 1 sjum-ah _amman 1374 Oct  1 11:04 pre-push.sample
+-rwxr-xr-x 1 sjum-ah _amman 4898 Oct  1 11:04 pre-rebase.sample
+-rwxr-xr-x 1 sjum-ah _amman  544 Oct  1 11:04 pre-receive.sample
+-rwxr-xr-x 1 sjum-ah _amman 2783 Oct  1 11:04 push-to-checkout.sample
+-rwxr-xr-x 1 sjum-ah _amman 3650 Oct  1 11:04 update.sample
+
+./ex02/.git/info:
+total 4
+drwxr-xr-x 2 sjum-ah _amman  21 Oct  1 11:04 .
+drwxr-xr-x 8 sjum-ah _amman 166 Oct  1 12:02 ..
+-rw-r--r-- 1 sjum-ah _amman 240 Oct  1 11:04 exclude
+
+./ex02/.git/logs:
+total 4
+drwxr-xr-x 3 sjum-ah _amman  30 Oct  1 11:31 .
+drwxr-xr-x 8 sjum-ah _amman 166 Oct  1 12:02 ..
+-rw-r--r-- 1 sjum-ah _amman 343 Oct  1 11:49 HEAD
+drwxr-xr-x 4 sjum-ah _amman  34 Oct  1 12:02 refs
+
+./ex02/.git/logs/refs:
+total 0
+drwxr-xr-x 4 sjum-ah _amman 34 Oct  1 12:02 .
+drwxr-xr-x 3 sjum-ah _amman 30 Oct  1 11:31 ..
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 11:31 heads
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 12:02 remotes
+
+./ex02/.git/logs/refs/heads:
+total 4
+drwxr-xr-x 2 sjum-ah _amman  18 Oct  1 11:31 .
+drwxr-xr-x 4 sjum-ah _amman  34 Oct  1 12:02 ..
+-rw-r--r-- 1 sjum-ah _amman 343 Oct  1 11:49 main
+
+./ex02/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 12:02 .
+drwxr-xr-x 4 sjum-ah _amman 34 Oct  1 12:02 ..
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 12:02 origin
+
+./ex02/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 sjum-ah _amman  18 Oct  1 12:02 .
+drwxr-xr-x 3 sjum-ah _amman  20 Oct  1 12:02 ..
+-rw-r--r-- 1 sjum-ah _amman 144 Oct  1 12:02 main
+
+./ex02/.git/objects:
+total 0
+drwxr-xr-x 10 sjum-ah _amman  90 Oct  1 11:49 .
+drwxr-xr-x  8 sjum-ah _amman 166 Oct  1 12:02 ..
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:49 71
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:49 77
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:31 7c
+drwxr-xr-x  2 sjum-ah _amman  98 Oct  1 11:31 9f
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:31 e2
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:49 fa
+drwxr-xr-x  2 sjum-ah _amman   6 Oct  1 11:04 info
+drwxr-xr-x  2 sjum-ah _amman   6 Oct  1 11:04 pack
+
+./ex02/.git/objects/71:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:49 .
+drwxr-xr-x 10 sjum-ah _amman  90 Oct  1 11:49 ..
+-r--r--r--  1 sjum-ah _amman 159 Oct  1 11:49 34f16b92b6ae7888e6ebef0d0ad1e1be0011f8
+
+./ex02/.git/objects/77:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:49 .
+drwxr-xr-x 10 sjum-ah _amman  90 Oct  1 11:49 ..
+-r--r--r--  1 sjum-ah _amman 163 Oct  1 11:49 d5140eaa63cca27487bb69ce0bd1f29d0c93fd
+
+./ex02/.git/objects/7c:
+total 4
+drwxr-xr-x  2 sjum-ah _amman 52 Oct  1 11:31 .
+drwxr-xr-x 10 sjum-ah _amman 90 Oct  1 11:49 ..
+-r--r--r--  1 sjum-ah _amman 69 Oct  1 11:31 a4c1e5ddc6e207e64b5869867167990561a1b6
+
+./ex02/.git/objects/9f:
+total 8
+drwxr-xr-x  2 sjum-ah _amman 98 Oct  1 11:31 .
+drwxr-xr-x 10 sjum-ah _amman 90 Oct  1 11:49 ..
+-r--r--r--  1 sjum-ah _amman 88 Oct  1 11:31 2fcaa7f9cc2dd12a83e4b3a33cc40a998d850c
+-r--r--r--  1 sjum-ah _amman 26 Oct  1 11:31 4d96d5b00d98959ea9960f069585ce42b1349a
+
+./ex02/.git/objects/e2:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:31 .
+drwxr-xr-x 10 sjum-ah _amman  90 Oct  1 11:49 ..
+-r--r--r--  1 sjum-ah _amman 147 Oct  1 11:31 17ad9b04c6328d1bc380da0fa81f98694c9e02
+
+./ex02/.git/objects/fa:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 11:49 .
+drwxr-xr-x 10 sjum-ah _amman  90 Oct  1 11:49 ..
+-r--r--r--  1 sjum-ah _amman 121 Oct  1 11:49 dd7cae592be5140bb3631d257df095ff9c2fcd
+
+./ex02/.git/objects/info:
+total 0
+drwxr-xr-x  2 sjum-ah _amman  6 Oct  1 11:04 .
+drwxr-xr-x 10 sjum-ah _amman 90 Oct  1 11:49 ..
+
+./ex02/.git/objects/pack:
+total 0
+drwxr-xr-x  2 sjum-ah _amman  6 Oct  1 11:04 .
+drwxr-xr-x 10 sjum-ah _amman 90 Oct  1 11:49 ..
+
+./ex02/.git/refs:
+total 0
+drwxr-xr-x 5 sjum-ah _amman  46 Oct  1 12:02 .
+drwxr-xr-x 8 sjum-ah _amman 166 Oct  1 12:02 ..
+drwxr-xr-x 2 sjum-ah _amman  18 Oct  1 11:49 heads
+drwxr-xr-x 3 sjum-ah _amman  20 Oct  1 12:02 remotes
+drwxr-xr-x 2 sjum-ah _amman   6 Oct  1 11:04 tags
+
+./ex02/.git/refs/heads:
+total 4
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 11:49 .
+drwxr-xr-x 5 sjum-ah _amman 46 Oct  1 12:02 ..
+-rw-r--r-- 1 sjum-ah _amman 41 Oct  1 11:49 main
+
+./ex02/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 12:02 .
+drwxr-xr-x 5 sjum-ah _amman 46 Oct  1 12:02 ..
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 12:02 origin
+
+./ex02/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 12:02 .
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 12:02 ..
+-rw-r--r-- 1 sjum-ah _amman 41 Oct  1 12:02 main
+
+./ex02/.git/refs/tags:
+total 0
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  1 11:04 .
+drwxr-xr-x 5 sjum-ah _amman 46 Oct  1 12:02 ..
+
+./ex03:
+total 24
+drwxr-xr-x 3 sjum-ah _amman 141 Oct  1 15:40 .
+drwxr-xr-x 9 sjum-ah _amman  99 Oct  4 10:55 ..
+drwxr-xr-x 8 sjum-ah _amman 201 Oct  1 15:50 .git
+-rw-r--r-- 1 sjum-ah _amman 172 Oct  1 15:40 git_log.txt
+-rw-r--r-- 1 sjum-ah _amman 121 Oct  1 14:17 git_workflow.txt
+-rw-r--r-- 1 sjum-ah _amman  10 Oct  1 15:40 hello.txt
+-rw-r--r-- 1 sjum-ah _amman 103 Oct  1 15:28 id_ed25519_pub.txt
+-rw-r--r-- 1 sjum-ah _amman 231 Oct  1 13:52 README.md
+-rw-r--r-- 1 sjum-ah _amman  56 Oct  1 15:40 repo_url.txt
+
+./ex03/.git:
+total 32
+drwxr-xr-x  8 sjum-ah _amman  201 Oct  1 15:50 .
+drwxr-xr-x  3 sjum-ah _amman  141 Oct  1 15:40 ..
+drwxr-xr-x  2 sjum-ah _amman    6 Oct  1 13:22 branches
+-rw-r--r--  1 sjum-ah _amman   44 Oct  1 15:38 COMMIT_EDITMSG
+-rw-r--r--  1 sjum-ah _amman  237 Oct  1 15:40 config
+-rw-r--r--  1 sjum-ah _amman   73 Oct  1 13:22 description
+-rw-r--r--  1 sjum-ah _amman  103 Oct  1 15:40 FETCH_HEAD
+-rw-r--r--  1 sjum-ah _amman   21 Oct  1 13:23 HEAD
+drwxr-xr-x  2 sjum-ah _amman 4096 Oct  1 13:22 hooks
+-rw-r--r--  1 sjum-ah _amman  537 Oct  1 15:45 index
+drwxr-xr-x  2 sjum-ah _amman   21 Oct  1 13:22 info
+drwxr-xr-x  3 sjum-ah _amman   30 Oct  1 15:38 logs
+drwxr-xr-x 17 sjum-ah _amman  160 Oct  1 15:41 objects
+-rw-r--r--  1 sjum-ah _amman   41 Oct  1 15:40 ORIG_HEAD
+drwxr-xr-x  5 sjum-ah _amman   46 Oct  1 15:40 refs
+
+./ex03/.git/branches:
+total 0
+drwxr-xr-x 2 sjum-ah _amman   6 Oct  1 13:22 .
+drwxr-xr-x 8 sjum-ah _amman 201 Oct  1 15:50 ..
+
+./ex03/.git/hooks:
+total 64
+drwxr-xr-x 2 sjum-ah _amman 4096 Oct  1 13:22 .
+drwxr-xr-x 8 sjum-ah _amman  201 Oct  1 15:50 ..
+-rwxr-xr-x 1 sjum-ah _amman  478 Oct  1 13:22 applypatch-msg.sample
+-rwxr-xr-x 1 sjum-ah _amman  896 Oct  1 13:22 commit-msg.sample
+-rwxr-xr-x 1 sjum-ah _amman 4655 Oct  1 13:22 fsmonitor-watchman.sample
+-rwxr-xr-x 1 sjum-ah _amman  189 Oct  1 13:22 post-update.sample
+-rwxr-xr-x 1 sjum-ah _amman  424 Oct  1 13:22 pre-applypatch.sample
+-rwxr-xr-x 1 sjum-ah _amman 1643 Oct  1 13:22 pre-commit.sample
+-rwxr-xr-x 1 sjum-ah _amman  416 Oct  1 13:22 pre-merge-commit.sample
+-rwxr-xr-x 1 sjum-ah _amman 1492 Oct  1 13:22 prepare-commit-msg.sample
+-rwxr-xr-x 1 sjum-ah _amman 1374 Oct  1 13:22 pre-push.sample
+-rwxr-xr-x 1 sjum-ah _amman 4898 Oct  1 13:22 pre-rebase.sample
+-rwxr-xr-x 1 sjum-ah _amman  544 Oct  1 13:22 pre-receive.sample
+-rwxr-xr-x 1 sjum-ah _amman 2783 Oct  1 13:22 push-to-checkout.sample
+-rwxr-xr-x 1 sjum-ah _amman 3650 Oct  1 13:22 update.sample
+
+./ex03/.git/info:
+total 4
+drwxr-xr-x 2 sjum-ah _amman  21 Oct  1 13:22 .
+drwxr-xr-x 8 sjum-ah _amman 201 Oct  1 15:50 ..
+-rw-r--r-- 1 sjum-ah _amman 240 Oct  1 13:22 exclude
+
+./ex03/.git/logs:
+total 4
+drwxr-xr-x 3 sjum-ah _amman  30 Oct  1 15:38 .
+drwxr-xr-x 8 sjum-ah _amman 201 Oct  1 15:50 ..
+-rw-r--r-- 1 sjum-ah _amman 400 Oct  1 15:41 HEAD
+drwxr-xr-x 4 sjum-ah _amman  34 Oct  1 15:40 refs
+
+./ex03/.git/logs/refs:
+total 0
+drwxr-xr-x 4 sjum-ah _amman 34 Oct  1 15:40 .
+drwxr-xr-x 3 sjum-ah _amman 30 Oct  1 15:38 ..
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 15:38 heads
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 15:40 remotes
+
+./ex03/.git/logs/refs/heads:
+total 4
+drwxr-xr-x 2 sjum-ah _amman  18 Oct  1 15:38 .
+drwxr-xr-x 4 sjum-ah _amman  34 Oct  1 15:40 ..
+-rw-r--r-- 1 sjum-ah _amman 400 Oct  1 15:41 main
+
+./ex03/.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 15:40 .
+drwxr-xr-x 4 sjum-ah _amman 34 Oct  1 15:40 ..
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 15:40 origin
+
+./ex03/.git/logs/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 sjum-ah _amman  18 Oct  1 15:40 .
+drwxr-xr-x 3 sjum-ah _amman  20 Oct  1 15:40 ..
+-rw-r--r-- 1 sjum-ah _amman 332 Oct  1 15:46 main
+
+./ex03/.git/objects:
+total 0
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 .
+drwxr-xr-x  8 sjum-ah _amman 201 Oct  1 15:50 ..
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 13
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 15
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 21
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 2d
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 71
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 77
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 7c
+drwxr-xr-x  2 sjum-ah _amman  98 Oct  1 15:40 9f
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 aa
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 c9
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:41 ca
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 e2
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 fa
+drwxr-xr-x  2 sjum-ah _amman   6 Oct  1 13:22 info
+drwxr-xr-x  2 sjum-ah _amman   6 Oct  1 13:22 pack
+
+./ex03/.git/objects/13:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 116 Oct  1 15:38 7fe364e994d571c5e40650c89d55af623d3f79
+
+./ex03/.git/objects/15:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 105 Oct  1 15:38 9489ac328f7b5538f6541890edd7da920f4132
+
+./ex03/.git/objects/21:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 173 Oct  1 15:38 57857ee82793d8fd6fb4bca984d0fd865161ba
+
+./ex03/.git/objects/2d:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 226 Oct  1 15:40 3f71cd86535a22f81bbb3f5ff1759a1734ebf2
+
+./ex03/.git/objects/71:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 159 Oct  1 15:40 34f16b92b6ae7888e6ebef0d0ad1e1be0011f8
+
+./ex03/.git/objects/77:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 163 Oct  1 15:40 d5140eaa63cca27487bb69ce0bd1f29d0c93fd
+
+./ex03/.git/objects/7c:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman  69 Oct  1 15:40 a4c1e5ddc6e207e64b5869867167990561a1b6
+
+./ex03/.git/objects/9f:
+total 8
+drwxr-xr-x  2 sjum-ah _amman  98 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman  88 Oct  1 15:40 2fcaa7f9cc2dd12a83e4b3a33cc40a998d850c
+-r--r--r--  1 sjum-ah _amman  26 Oct  1 15:40 4d96d5b00d98959ea9960f069585ce42b1349a
+
+./ex03/.git/objects/aa:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 134 Oct  1 15:38 518499fe7d3e4c67d2820b552036ea2e9e0f1e
+
+./ex03/.git/objects/c9:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:38 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 152 Oct  1 15:38 6f0f1972ed71b8e23588e205f5e85f24a29e84
+
+./ex03/.git/objects/ca:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:41 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 228 Oct  1 15:41 cbbe19186af43836383850065ddc56b3f275ed
+
+./ex03/.git/objects/e2:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 147 Oct  1 15:40 17ad9b04c6328d1bc380da0fa81f98694c9e02
+
+./ex03/.git/objects/fa:
+total 4
+drwxr-xr-x  2 sjum-ah _amman  52 Oct  1 15:40 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+-r--r--r--  1 sjum-ah _amman 121 Oct  1 15:40 dd7cae592be5140bb3631d257df095ff9c2fcd
+
+./ex03/.git/objects/info:
+total 0
+drwxr-xr-x  2 sjum-ah _amman   6 Oct  1 13:22 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+
+./ex03/.git/objects/pack:
+total 0
+drwxr-xr-x  2 sjum-ah _amman   6 Oct  1 13:22 .
+drwxr-xr-x 17 sjum-ah _amman 160 Oct  1 15:41 ..
+
+./ex03/.git/refs:
+total 0
+drwxr-xr-x 5 sjum-ah _amman  46 Oct  1 15:40 .
+drwxr-xr-x 8 sjum-ah _amman 201 Oct  1 15:50 ..
+drwxr-xr-x 2 sjum-ah _amman  18 Oct  1 15:41 heads
+drwxr-xr-x 3 sjum-ah _amman  20 Oct  1 15:40 remotes
+drwxr-xr-x 2 sjum-ah _amman   6 Oct  1 13:22 tags
+
+./ex03/.git/refs/heads:
+total 4
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 15:41 .
+drwxr-xr-x 5 sjum-ah _amman 46 Oct  1 15:40 ..
+-rw-r--r-- 1 sjum-ah _amman 41 Oct  1 15:41 main
+
+./ex03/.git/refs/remotes:
+total 0
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 15:40 .
+drwxr-xr-x 5 sjum-ah _amman 46 Oct  1 15:40 ..
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 15:46 origin
+
+./ex03/.git/refs/remotes/origin:
+total 4
+drwxr-xr-x 2 sjum-ah _amman 18 Oct  1 15:46 .
+drwxr-xr-x 3 sjum-ah _amman 20 Oct  1 15:40 ..
+-rw-r--r-- 1 sjum-ah _amman 41 Oct  1 15:46 main
+
+./ex03/.git/refs/tags:
+total 0
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  1 13:22 .
+drwxr-xr-x 5 sjum-ah _amman 46 Oct  1 15:40 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 sjum-ah _amman 17 Oct  4 10:34 .
+drwxr-xr-x 9 sjum-ah _amman 99 Oct  4 10:55 ..
+drwxr-xr-x 4 sjum-ah _amman 36 Oct  4 10:34 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 sjum-ah _amman 36 Oct  4 10:34 .
+drwxr-xr-x 3 sjum-ah _amman 17 Oct  4 10:34 ..
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  4 10:34 backend
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  4 10:34 fronted
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  4 10:34 .
+drwxr-xr-x 4 sjum-ah _amman 36 Oct  4 10:34 ..
+
+./projects/web/fronted:
+total 0
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  4 10:34 .
+drwxr-xr-x 4 sjum-ah _amman 36 Oct  4 10:34 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 sjum-ah _amman  6 Oct  4 10:33 .
+drwxr-xr-x 9 sjum-ah _amman 99 Oct  4 10:55 ..
